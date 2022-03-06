@@ -1,0 +1,4 @@
+discord.py>=1.7.3
+aiosqlite>=0.17.0 # Utilisation d'une base .sqlite en asynchrone
+python-dotenv>=0.19.2 # Utilisation du fichier .env
+aiohttp>=3.8.1 

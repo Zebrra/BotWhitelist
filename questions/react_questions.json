@@ -1,0 +1,67 @@
+[
+    {
+        "question_prompt": "Qui crains-tu le plus en ville ?",
+        "question_answers_prompt": [
+            "1️⃣ Les ballas.",
+            "2️⃣ Les policiers.",
+            "3️⃣ J'ai peur de personne en ville.",
+            "4️⃣ Tout le monde me fais peur."
+        ],
+        "question_answer": 2
+    },
+
+    {
+        "question_prompt": "Si pour intégrer un groupe ton personnage n'est pas accepté. Que fais-tu ?",
+        "question_answers_prompt": [
+            "1️⃣  Je wipe?",
+            "2️⃣  Je vais dénoncer le groupe.",
+            "3️⃣  Je continu mon personnage.",
+            "4️⃣  Je me suicide."
+        ],
+        "question_answer": 3
+    },
+
+    {
+        "question_prompt": "Quelqu'un te demande “comment sort-on le téléphone ?” Que réponds-tu ?",
+        "question_answers_prompt": [
+            "1️⃣  regarde ta poche F10.",
+            "2️⃣  Appuie sur F10.",
+            "3️⃣  Regarde la touche dans tes paramètres.",
+            "4️⃣  Regarde sur Discord."
+        ],
+        "question_answer": 1
+    },
+
+    {
+        "question_prompt": "Tu crash, que dis tu à ton retour ?",
+        "question_answers_prompt": [
+            "1️⃣  Mon ordinateur bug.",
+            "2️⃣  J'ai perdu la co.",
+            "3️⃣  J'ai crash.",
+            "4️⃣  Je me suis évanoui."
+        ],
+        "question_answer": 4
+    },
+
+    {
+        "question_prompt": "On te Contre braque, tu fais quoi ?",
+        "question_answers_prompt": [
+            "1️⃣  Je tire sur lui.",
+            "2️⃣  Je calme la situation.",
+            "3️⃣  ALT F4 .",
+            "4️⃣  Je fais un /report?"
+        ],
+        "question_answer": 2
+    },
+
+    {
+        "question_prompt": "Tu coma d'un bug et un EMS viens pour te sauver et t'emmène a l'Hopitale , Tu lui dis quoi ?",
+        "question_answers_prompt": [
+            "1️⃣  Je le préviens que je vais parlé HRP pour expliquer la situations.",
+            "2️⃣  J'invente une situation.",
+            "3️⃣  Je lui dis pas besoin de me soigné.",
+            "4️⃣  Je fais un /report a l 'hopitale."
+        ],
+        "question_answer": 2
+    }
+]
